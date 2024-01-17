@@ -125,6 +125,7 @@ button {
   font-weight: 700;
   text-transform: uppercase;
   color: #fff;
+  cursor: pointer;
 
   @media screen and (max-width: 1079px) {
   }
