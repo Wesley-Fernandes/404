@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?type=design&node-id=1%3A4&mode=design&t=xJAEsPYShKd7vutC-1">
+    <a href="https://404-lyart.vercel.app">
       Demo
     </a>
     <span> | </span>
