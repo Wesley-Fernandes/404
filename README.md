@@ -38,12 +38,11 @@
 
 ![screenshot](https://i.ibb.co/BzJCfj9/Capturar.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+During the project, I enhanced my skills in:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+Semantic HTML: Understanding the importance of structuring content semantically for better accessibility and SEO.
+Advanced CSS: Employing advanced CSS techniques to create smooth transitions and ensure a visually pleasing experience.
+Responsiveness: Ensuring that the page was fully responsive on different devices and screen sizes.
 
 ### Built With
 
@@ -52,13 +51,11 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
-
 
 ## Acknowledgements
 
@@ -66,9 +63,9 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - [Vscode](https://code.visualstudio.com/)
 
-
 ## Contact
 
-- Website [your-website.com](https://wesleyfernandes.vercel.app/)
-- GitHub [@your-username](https://github.com/Wesley-Fernandes)
-- Linkedin [@your-twitter](https://www.linkedin.com/in/wesley-israel-fernandes/)
+- Website [https://wesleyfernandes.vercel.app/](https://wesleyfernandes.vercel.app/)
+- GitHub [@WesleyFernandes](https://github.com/Wesley-Fernandes)
+- Linkedin [@WesleyFernandes](https://www.linkedin.com/in/wesley-israel-fernandes/)
+<!--http://wesley-fernandes.github.io/404 -->

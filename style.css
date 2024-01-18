@@ -1,23 +1,13 @@
-@font-face {
-  font-family: "Inconsolata";
-  src: url("/fonts/Inconsolata-VariableFont_wdth\,wght.ttf");
-}
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&family=Montserrat:wght@500&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
-@font-face {
-  font-family: "Montserrat";
-  src: url("/fonts/Montserrat-VariableFont_wght.ttf");
-}
 
-@font-face {
-  font-family: "SpaceMono";
-  src: url("/fonts/SpaceMono-Bold.ttf");
-}
+
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Inconsolata";
+  font-family: 'Inconsolata', monospace;
 }
 
 body {
@@ -74,7 +64,7 @@ main h3 {
   font-size: 64px;
   font-weight: 700;
   color: #333333;
-  font-family: "SpaceMono";
+  font-family: 'Space Mono', monospace;
   @media screen and (max-width: 1079px) {
     font-size: 48px;
   }
@@ -132,7 +122,7 @@ button {
 }
 
 small {
-  font-family: "Montserrat";
+  font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   color: #bdbdbd;
 }
